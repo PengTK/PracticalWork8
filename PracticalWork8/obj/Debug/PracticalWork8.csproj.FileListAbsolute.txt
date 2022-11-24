@@ -1,0 +1,11 @@
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\bin\Debug\PracticalWork8.exe.config
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\bin\Debug\PracticalWork8.exe
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\bin\Debug\PracticalWork8.pdb
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.csproj.CopyComplete
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.exe
+C:\Users\Den\source\repos\PracticalWork8\PracticalWork8\obj\Debug\PracticalWork8.pdb
